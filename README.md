@@ -1,7 +1,7 @@
-This is the Amazon-Clone React Application with following features:
+This is the Amazon-Clone React Application with the following features:
   1. User Authentication with Firebase.
   2. Deployed on Firebase.
-  3. Add to basket Funcationality.
+  3. Add to basket functionality.
   4. Subtotal Component.
   5. Home, Login , Chekout Pages.
   6. Every page is rendered without actually refrehing the page.
