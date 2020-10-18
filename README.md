@@ -3,8 +3,8 @@ This is the Amazon-Clone React Application with the following features:
   2. Deployed on Firebase.
   3. Add to basket functionality.
   4. Subtotal Component.
-  5. Home, Login , Chekout Pages.
-  6. Every page is rendered without actually refrehing the page.
+  5. Home, Login , Checkout Pages.
+  6. Every page is rendered without actually refreshing the page.
   
 Link : https://clone-68816.web.app/
 
